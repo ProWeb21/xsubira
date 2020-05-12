@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IDE project and customization files
+.vscode
+.sublime-project
+.idea
+*.suo
+*.ntvs*
+
+# MacOS metadata files
+.DS_Store
